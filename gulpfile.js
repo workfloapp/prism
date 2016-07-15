@@ -13,7 +13,7 @@ var gulp   = require('gulp'),
 			'components/prism-core.js',
 			'components/prism-markup.js',
 			'components/prism-css.js',
-			'components/prism-clike.js',
+			'components/prism-jsx.js',
 			'components/prism-javascript.js',
 			'plugins/file-highlight/prism-file-highlight.js'
 		],
